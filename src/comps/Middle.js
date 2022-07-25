@@ -32,7 +32,7 @@ const Middle = () => {
               <h6 className='text-uppercase fw-bold mb-4'>Products</h6>
               <p>
                 <a href='#!' className='text-reset'>
-                  Angular
+                  HTML
                 </a>
               </p>
               <p>
@@ -42,12 +42,12 @@ const Middle = () => {
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Vue
+                  CSS
                 </a>
               </p>
               <p>
                 <a href='#!' className='text-reset'>
-                  Laravel
+                  JAVASCRIPT
                 </a>
               </p>
             </div>
